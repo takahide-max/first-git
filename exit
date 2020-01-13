@@ -1,0 +1,24 @@
+warning: CRLF will be replaced by LF in index.html.
+The file will have its original line endings in your working directory
+[1mdiff --git a/index.html b/index.html[m
+[1mindex d102e05..08d34f0 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,11 +1,12 @@[m
+[31m-<!DOCTYPE html>[m
+[32m+[m[32mï»¿<!DOCTYPE html>[m
+ <html lang="ja">[m
+     <head>[m
+         <meta charset="utf-8">[m
+[31m-        <title>Gitƒ`ƒ…[ƒgƒŠƒAƒ‹</title>[m
+[32m+[m[32m        <title>Gitãƒãƒ¥ãƒ¼ãƒˆãƒªã‚¢ãƒ«</title>[m
+     </head>[m
+     <body>[m
+[31m-        <h1>‚Í‚¶‚ß‚Ä‚Ìƒo[ƒWƒ‡ƒ“ŠÇ—</h1>[m
+[31m-        <p>Git‚ğg‚Á‚Äƒo[ƒWƒ‡ƒ“ŠÇ—‚·‚éB</p>[m
+[32m+[m[32m        <h1>ã¯ã˜ã‚ã¦ã®ãƒãƒ¼ã‚¸ãƒ§ãƒ³ç®¡ç†</h1>[m
+[32m+[m[32m        <p>Gitã‚’ä½¿ã£ã¦ãƒãƒ¼ã‚¸ãƒ§ãƒ³ç®¡ç†ã™ã‚‹ã€‚</p>[m
+[32m+[m[32m        <img src="git-logo.png" alt="git logo">[m
+     </body>[m
+ </html>[m
+\ No newline at end of file[m
